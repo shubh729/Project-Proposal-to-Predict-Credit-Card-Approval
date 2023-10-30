@@ -33,7 +33,7 @@ We Finally concluded that Random Forest is the best way to perform Predictions u
 
 The Project's Data Cleaning part, EDA and Feauture Engineering,ML is Done in the file Below.
 
-The Project File
+[The Project File](https://github.com/shubh729/Project-Proposal-to-Predict-Credit-Card-Approval/blob/0634e124a068deb78265d98ded5da593e86a456d/Analysing_Credit_Card__Dataset.ipynb)
 
 Performed Data Analysis by using Mysql tool and obtained some insights from it.
 
