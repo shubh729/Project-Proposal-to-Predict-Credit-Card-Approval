@@ -39,4 +39,4 @@ Performed Data Analysis by using Mysql tool and obtained some insights from it.
 
 The queries we performed is saved in a file and linked below.
 
-The Mysql File
+[The Mysql File](https://github.com/shubh729/Project-Proposal-to-Predict-Credit-Card-Approval/blob/639660b6d158316984e77cbd64b3babd908eeccc/capstone%20project%20SQL.sql)
