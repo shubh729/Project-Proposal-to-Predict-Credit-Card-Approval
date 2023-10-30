@@ -9,7 +9,7 @@ The datasets of the project is linked below
 
 [The 'A' Dataset](https://github.com/shubh729/Project-Proposal-to-Predict-Credit-Card-Approval/blob/e47b04af57d59aaa405134cfbf0ef3e0e3600213/Credit_card.csv)
 
-The 'B' Dataset
+[The 'B' Dataset](https://github.com/shubh729/Project-Proposal-to-Predict-Credit-Card-Approval/blob/e47b04af57d59aaa405134cfbf0ef3e0e3600213/Credit_card_label.csv)
 
 The aim of the Project was to perform Exploratory Data Analysis, cleaning and perform predictions from the Credit Card Dataset.
 
