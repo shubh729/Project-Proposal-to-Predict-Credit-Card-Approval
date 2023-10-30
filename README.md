@@ -7,7 +7,7 @@ The project deals with predicting values based on classification algorithm which
 
 The datasets of the project is linked below
 
-The 'A' Dataset [https://github.com/shubh729/Project-Proposal-to-Predict-Credit-Card-Approval/blob/e47b04af57d59aaa405134cfbf0ef3e0e3600213/Credit_card.csv]
+[The 'A' Dataset](https://github.com/shubh729/Project-Proposal-to-Predict-Credit-Card-Approval/blob/e47b04af57d59aaa405134cfbf0ef3e0e3600213/Credit_card.csv)
 
 The 'B' Dataset
 
