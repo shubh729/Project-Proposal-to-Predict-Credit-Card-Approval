@@ -21,7 +21,7 @@ While observing every column separately, we observed the values which are wrongl
 
 The Dataset after every cleaning is done is saved as a file and attached below.
 
-The Cleaned Dataset
+[The Cleaned Dataset](https://github.com/shubh729/Project-Proposal-to-Predict-Credit-Card-Approval/blob/79e6d0115279d9befc2b57c61915e60cb2c4820e/Cleaned_dataset.csv)
 
 while performing Exploratory data analysis, we performed univariate analysis.i.e., histogram and pie chart for some columns, Bivariate Analysis.i.e., box plot,Scatter plot, correlation between data using heatmap and listed down the observations accordingly.
 
