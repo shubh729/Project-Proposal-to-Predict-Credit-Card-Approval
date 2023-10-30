@@ -7,7 +7,7 @@ The project deals with predicting values based on classification algorithm which
 
 The datasets of the project is linked below
 
-The 'A' Dataset
+The 'A' Dataset [Credit_card.csv]
 
 The 'B' Dataset
 
